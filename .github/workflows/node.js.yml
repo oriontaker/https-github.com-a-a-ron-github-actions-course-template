@@ -51,5 +51,5 @@ jobs:
         npm install
         npm test
       env: 
-        CI: true
+        CIA: true
 #    #- run: npm test -- -u
